@@ -43,8 +43,8 @@ This repository contains a simple **UiPath workflow** that demonstrates:
 
 | Field | Example Input |
 |------|--------------|
-| Name | Bala Saravanan K |
-| Password | password123 |
+| Name | Mohan R |
+| Password | gcep6579 |
 | Textarea | Graphic Designer and UI/UX enthusiastic |
 
 ---
